@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Blazers007/WebpackLeaning/issues"
   },
-  "homepage": "https://github.com/Blazers007/WebpackLeaning#readme"
+  "homepage": "https://github.com/Blazers007/WebpackLeaning#readme",
+  "devDependencies": {
+    "webpack": "^3.0.0"
+  }
 }
