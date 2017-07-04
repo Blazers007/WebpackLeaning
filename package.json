@@ -1,0 +1,19 @@
+{
+  "name": "webpack-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blazers007/WebpackLeaning.git"
+  },
+  "author": "Blazers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blazers007/WebpackLeaning/issues"
+  },
+  "homepage": "https://github.com/Blazers007/WebpackLeaning#readme"
+}
